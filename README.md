@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @ritnag
-- 👀 I’m interested in specific areas of Computer programming, starting with web dev
-- 🌱 I’m currently learning or lets say, trying to master C++.
+- 👀 I’m interested in specific areas of Computer programming, starting with SQL, Web dev, Arduino.
+- 🌱 I’m currently learning, trying to master C++, Java and SQL.
 💞️ 
  📫 
 
